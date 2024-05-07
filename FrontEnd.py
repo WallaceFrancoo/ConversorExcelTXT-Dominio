@@ -168,7 +168,7 @@ botao_cadastrar.pack(side="top", anchor="center", pady=5)
 # Botao Criar campos de cadastro caso seja clicado!
 frame_cadastro = tk.Frame(janela)
 
-criador = Label(janela, text="Feito por Wallace", font=("Arial",7))
+criador = Label(janela, text=BancoDeDados.Criador, font=("Arial",7))
 criador.pack(side="top", pady=5)
 
 # Criar campos de entrada no frame de cadastro

@@ -1,6 +1,7 @@
 planilhaAcumuladores = "Z:\Diversos\Robo\PLANILHAS\Acumuladores.xlsx"
 caminhoLogo = "Z:\Diversos\Projetos T.I\REINF\Simbolo.png"
 nomeDoProgama = "Serviços Tomados - Dominio"
+Criador = " Feito por Wallace"
 
 tamanhoPaginaX = 330
 tamanhoPaginaY = 270
